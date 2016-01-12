@@ -1,5 +1,4 @@
-# Alex Huynh
-# Simple-Tic-Tac-Toe
+###### Simple-Tic-Tac-Toe
 
    This program will simulate a game of tic-tac-toe where it will draw a 3 by 3 board filled with characters
  '1' through '9'. Two players then take turns choosing a number between 1 and 9, where the numbers represent
